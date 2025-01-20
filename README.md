@@ -1,6 +1,6 @@
 # Video Games Sales Dashboard
 
-<a href="https://github.com/Ulkarhuseynli/Video-Games-Sales-Dashboard-Power-BI-/blob/main/Video%20Games%20Sales.png>View Dashboard</a>
+<a href = "https://github.com/Ulkarhuseynli/Video-Games-Sales-Dashboard-Power-BI-/blob/main/Video%20Games%20Sales.png">View Dashboard</a>
 
 ## Purpose of the Dashboard
 The video game industry is a rapidly growing and dynamic field. This dashboard is designed using the "Video Game Sales" dataset to analyze sales trends, identify popular game genres and platforms in different regions, and provide valuable insights for decision-makers in the industry. It serves as an indispensable tool for game developers, publishers, and marketing professionals.
