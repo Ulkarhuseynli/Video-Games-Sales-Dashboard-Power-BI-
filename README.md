@@ -2,9 +2,9 @@
 
 <a href = "https://github.com/Ulkarhuseynli/Video-Games-Sales-Dashboard-Power-BI-/blob/main/Video%20Games%20Dashboard%201.png">Dashboard Page 1</a>
 <br>
-<a href = "https://github.com/Ulkarhuseynli/Video-Games-Sales-Dashboard-Power-BI-/blob/main/Video%20Games%20Dashboard%202.png">Dashboard Page 1</a>
+<a href = "https://github.com/Ulkarhuseynli/Video-Games-Sales-Dashboard-Power-BI-/blob/main/Video%20Games%20Dashboard%202.png">Dashboard Page 2</a>
 <br>
-<a href = "https://github.com/Ulkarhuseynli/Video-Games-Sales-Dashboard-Power-BI-/blob/main/Video%20Games%20Dashboard%203%20.png">Dashboard Page 1</a>
+<a href = "https://github.com/Ulkarhuseynli/Video-Games-Sales-Dashboard-Power-BI-/blob/main/Video%20Games%20Dashboard%203%20.png">Dashboard Page 3</a>
 
 ## Dashboardun Məqsədi
 
